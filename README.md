@@ -1,7 +1,7 @@
 # File-Transfer-Using-Bluetooth
 
 ### Steps to run
-1. Create a python3 virtual enviornment.
+1. Create a python3 virtual enviornment `virtualenv -p python3 myenv`
 2. Install the requirements via `pip install -r requirements.txt`.
 3. Run the app using `python main.py`.
 
